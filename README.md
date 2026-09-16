@@ -1,16 +1,27 @@
-<img align="right" src="https://github.com/jeffreymooiweer.png" width="135" alt="Jeffrey Mooiweer">
+# README.md
 
-# Jeffrey Mooiweer
-
-**Building practical software for real-world workflows, automation and self-hosting.**
-
-I'm a builder from the Netherlands with a background in logistics and process-driven work.
-
-I like taking workflows that are repetitive, fragmented or unnecessarily complicated and turning them into software that is **simple to use, easy to understand and practical to run**.
-
-Most of my projects live somewhere at the intersection of **operations, full-stack development, data, automation and self-hosted infrastructure**.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="top">
+      <h1>Jeffrey Mooiweer</h1>
+      <p><strong>Building practical software for real-world workflows, automation and self-hosting.</strong></p>
+      <p>
+        I'm a builder from the Netherlands with a background in logistics and process-driven work.
+      </p>
+      <p>
+        I like taking workflows that are repetitive, fragmented or unnecessarily complicated
+        and turning them into software that is <strong>simple to use, easy to understand and practical to run</strong>.
+      </p>
+      <p>
+        Most of my projects live somewhere at the intersection of <strong>operations, full-stack development,
+        data, automation and self-hosted infrastructure</strong>.
+      </p>
+    </td>
+    <td valign="top" align="center" width="180">
+      <img src="https://github.com/jeffreymooiweer.png" width="140" alt="Jeffrey Mooiweer" />
+    </td>
+  </tr>
+</table>
 
 ## What I focus on
 
@@ -66,7 +77,7 @@ An interactive World Cup application combining the group stage, standings and kn
 
 ### 🧭 [Kompas](https://github.com/jeffreymooiweer/Kompas)
 
-A lightweight single-page political-compass experiment built as a standalone web application.
+A lightweight single-page compass-style quiz application built as a standalone web app.
 
 `HTML` `CSS` `JavaScript`
 
@@ -77,17 +88,17 @@ I also build private and internal tools for **product-data management, browser a
 ## Tools I reach for
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" alt="Unraid">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" alt="Unraid" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ## How I like to build
@@ -98,12 +109,12 @@ I care more about whether software makes a process genuinely easier than about a
 
 That usually means:
 
-- a clean and understandable interface;
-- as few unnecessary steps as possible;
-- sensible automation with manual control where it matters;
-- self-hosting when privacy or independence matters;
-- reproducible Docker deployments;
-- documentation that makes the project usable without knowing how it was built.
+- a clean and understandable interface
+- as few unnecessary steps as possible
+- sensible automation with manual control where it matters
+- self-hosting when privacy or independence matters
+- reproducible Docker deployments
+- documentation that makes the project usable without knowing how it was built
 
 ## Elsewhere
 
