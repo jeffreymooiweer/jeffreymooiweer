@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jeffreymooiweer.png" width="150" alt="Jeffrey Mooiweer" />
-</p>
-
 <h1 align="center">Jeffrey Mooiweer</h1>
 
 <p align="center">
