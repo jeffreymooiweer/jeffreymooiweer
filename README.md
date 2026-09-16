@@ -1,27 +1,18 @@
-# README.md
+<p align="center">
+  <img src="https://github.com/jeffreymooiweer.png" width="150" alt="Jeffrey Mooiweer" />
+</p>
 
-<table>
-  <tr>
-    <td valign="top">
-      <h1>Jeffrey Mooiweer</h1>
-      <p><strong>Building practical software for real-world workflows, automation and self-hosting.</strong></p>
-      <p>
-        I'm a builder from the Netherlands with a background in logistics and process-driven work.
-      </p>
-      <p>
-        I like taking workflows that are repetitive, fragmented or unnecessarily complicated
-        and turning them into software that is <strong>simple to use, easy to understand and practical to run</strong>.
-      </p>
-      <p>
-        Most of my projects live somewhere at the intersection of <strong>operations, full-stack development,
-        data, automation and self-hosted infrastructure</strong>.
-      </p>
-    </td>
-    <td valign="top" align="center" width="180">
-      <img src="https://github.com/jeffreymooiweer.png" width="140" alt="Jeffrey Mooiweer" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Jeffrey Mooiweer</h1>
+
+<p align="center">
+  <strong>Building practical software for real-world workflows, automation and self-hosting.</strong>
+</p>
+
+I'm a builder from the Netherlands with a background in logistics and process-driven work.
+
+I like taking workflows that are repetitive, fragmented or unnecessarily complicated and turning them into software that is **simple to use, easy to understand and practical to run**.
+
+Most of my projects live somewhere at the intersection of **operations, full-stack development, data, automation and self-hosted infrastructure**.
 
 ## What I focus on
 
