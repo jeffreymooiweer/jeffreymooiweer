@@ -1,4 +1,8 @@
-<iframe src="https://github.com/sponsors/jeffreymooiweer/button" title="Sponsor jeffreymooiweer" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<p align="center">
+  <a href="https://github.com/sponsors/jeffreymooiweer">
+    <img src="https://img.shields.io/badge/Sponsor-Jeffrey%20Mooiweer-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Jeffrey Mooiweer">
+  </a>
+</p>
 
 <h1 align="center">Jeffrey Mooiweer</h1>
 
