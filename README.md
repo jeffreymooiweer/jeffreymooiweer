@@ -28,7 +28,7 @@ Most of my projects live somewhere at the intersection of **operations, full-sta
 
 ## Selected projects
 
-### 🚚 [EMCargo](https://github.com/jeffreymooiweer/emcargo)
+### [EMCargo](https://github.com/jeffreymooiweer/emcargo)
 
 A self-hosted freight workflow and transport-document platform.
 
@@ -38,7 +38,7 @@ Enter a shipment once and EMCargo reuses the data across transport documents, ca
 
 ---
 
-### ⚡ [ProxyWake](https://github.com/jeffreymooiweer/ProxyWake)
+### [ProxyWake](https://github.com/jeffreymooiweer/ProxyWake)
 
 **Access it. Wake it.**
 
@@ -50,7 +50,7 @@ Supports Wake-on-LAN, SSH, webhooks, Home Assistant and IPMI, with integrations 
 
 ---
 
-### 🎵 [Top 2000 Alltime](https://github.com/jeffreymooiweer/Top-2000-Alltime)
+### [Top 2000 Alltime](https://github.com/jeffreymooiweer/Top-2000-Alltime)
 
 An interactive web application that calculates an all-time ranking from historical Dutch Top 2000 results.
 
@@ -60,7 +60,7 @@ Includes historical ranking charts, search, audio previews, album artwork, Excel
 
 ---
 
-### ⚽ [FIFA World Cup Bracket](https://github.com/jeffreymooiweer/FIFAWorldCup)
+### [FIFA World Cup Bracket](https://github.com/jeffreymooiweer/FIFAWorldCup)
 
 An interactive World Cup application combining the group stage, standings and knockout bracket in a responsive multilingual PWA.
 
@@ -68,7 +68,7 @@ An interactive World Cup application combining the group stage, standings and kn
 
 ---
 
-### 🧭 [Kompas](https://github.com/jeffreymooiweer/Kompas)
+### [Kompas](https://github.com/jeffreymooiweer/Kompas)
 
 A lightweight single-page compass-style quiz application built as a standalone web app.
 
