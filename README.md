@@ -1,3 +1,5 @@
+<iframe src="https://github.com/sponsors/jeffreymooiweer/button" title="Sponsor jeffreymooiweer" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <h1 align="center">Jeffrey Mooiweer</h1>
 
 <p align="center">
